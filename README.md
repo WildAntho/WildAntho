@@ -19,16 +19,21 @@ I am a passionate Web and Mobile Web Developer currently in training. I am dedic
 
 ## Projects
 
-- 🔭 I’m currently working on a sport application. This project aims to develop a versatile application for organizing workout sessions, providing personalized plans and tracking features. It is tailored to meet the needs of both beginners and experienced athletes, offering customizable routines, progress tracking, and expert tips to enhance the fitness journey.
+🔭 I’m currently working on a sport application. This project aims to develop a versatile application for organizing workout sessions, providing personalized plans and tracking features. It is tailored to meet the needs of both beginners and experienced athletes, offering customizable routines, progress tracking, and expert tips to enhance the fitness journey.
 
 I also had the opportunity to work on various projects. Here are a few examples of what I've been working on:
 
 - **[ACEFLIX]([link-to-project](https://aceflix-client.vercel.app/#haut-page))**: This project aims to create a dynamic website that aggregates a wide range of movie trailers, enabling users to easily discover content to watch. The platform offers a user-friendly interface for browsing and searching trailers, personalized recommendations, and the latest updates in the film industry to help users find their next favorite movie effortlessly
+  
 - **[OUT]([link-to-project](https://out-omega-dun.vercel.app/))**: This hackathon project involves creating an innovative application designed to help users unwind and disconnect by suggesting local activities. The app aims to enhance mental well-being by providing personalized suggestions based on user preferences and location. It features a user-friendly interface for discovering and booking nearby activities, promoting relaxation and exploration in their community.
 
 ## Looking for an Apprenticeship
 
 I am actively seeking an apprenticeship opportunity starting in September. I am eager to apply my skills in a real-world environment and to learn from experienced professionals in the field. If you know of any opportunities or would like to collaborate, please feel free to reach out!
+
+## Statistics
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## Contact Me
 
