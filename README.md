@@ -38,7 +38,6 @@ I am actively seeking an apprenticeship opportunity starting in September. I am 
 
 ## Contact Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-github-profile)
+- **Email**: [anthony.dufrenot@gmail.com](anthony.dufrenot@gmail.com)
+- **LinkedIn**: [Anthony Dufrenot](https://www.linkedin.com/in/anthony-dufrenot-64275510a/)
 
