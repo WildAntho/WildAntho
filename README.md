@@ -33,7 +33,8 @@ I am actively seeking an apprenticeship opportunity starting in September. I am 
 
 ## Statistics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WildAntho&show_icons=true&theme=radical)
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=WildAntho&show_icons=true&locale=en&layout=compact" alt="WildAntho" /></p>
+<p><img height="200" src="https://github-readme-stats.vercel.app/api?username=WildAntho&show_icons=true&locale=en" alt="WildAntho" /></p>
 
 ## Contact Me
 
